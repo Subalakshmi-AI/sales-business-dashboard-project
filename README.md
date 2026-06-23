@@ -16,5 +16,5 @@ This project analyzes sales performance using an Excel Dashboard.
 - Dashboard Design
 
 ## Author
-Suba Lakshmi# sales-business-dashboard-project
+Subalakshmi# sales-business-dashboard-project
 excel sales dashboard project
