@@ -1,20 +1,20 @@
-# Sales Business Dashboard Project
+# Excel Sales Dashboard
 
 ## Project Overview
-This project analyzes sales performance using an Excel Dashboard.
+This project presents sales performance analysis using an interactive Excel Dashboard.
 
-## Features
-- Total Sales Analysis
-- Product Category Analysis
+## Key Insights
+- Total Sales Performance
+- Product-wise Analysis
 - Target vs Achievement
 - Monthly Sales Trends
 
-## Tools Used
+## Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
-- Charts
+- Pivot Charts
+- Slicers
 - Dashboard Design
 
-## Author
-Subalakshmi# sales-business-dashboard-project
-excel sales dashboard project
+## Project Author
+Subalakshmi
